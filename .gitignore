@@ -5,7 +5,7 @@ _site
 .ruby-version
 .sass-cache
 
-# Numerous always-ignore extensions
+# Numerous always-ignore Extensions
 *.diff
 *.err
 *.orig
@@ -32,6 +32,6 @@ nbproject
 *.sublime-workspace
 .idea
 
-# Folders to ignore
+# Folders to Ignore
 node_modules
 bower
